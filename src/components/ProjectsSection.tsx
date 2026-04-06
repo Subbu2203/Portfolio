@@ -23,12 +23,12 @@ const projects = [
     github: "https://github.com/Subbu2203/NostraEcommerce.git",
   },
   {
-    title: "Social Platform",
-    description: "A community-driven platform with real-time messaging, content feeds, and user profiles.",
+    title: "Admin Panel",
+    description: "A modern and responsive Admin Dashboard built using React, TypeScript, and Tailwind CSS. Features include dynamic charts, user management, and a dark/light theme toggle. ",
     image: project3,
     tech: ["React", "GraphQL", "MongoDB", "Socket.io"],
-    live: "#",
-    github: "#",
+    live: "https://admin-panel-v8tf.vercel.app/",
+    github: "https://github.com/Subbu2203/Admin-Panel.git",
   },
 ];
 
